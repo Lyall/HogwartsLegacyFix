@@ -19,9 +19,9 @@ Please report any issues you see.
 
 ## Screenshots
 
-| ![correct cutscenes](https://user-images.githubusercontent.com/695941/216191824-9aab56df-2469-4654-ac79-daff722e2112.gif) |
+| ![ezgif-5-aa9dbbde3b](https://user-images.githubusercontent.com/695941/217569024-242b3e90-0c66-46de-9460-6e31eb476f5d.gif) |
 |:--:|
-| Fixed in-game cutscenes. |
+| Disabled pillarboxing in cutscenes. |
 
 ## Credits
 [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) for ASI loading. <br />
