@@ -12,7 +12,7 @@ This is a fix for pillarboxing in cutscenes with ultrawide/wider displays in Hog
 - Extract the contents of the release zip in to the game directory.<br />(e.g. "**steamapps\common\Hogwarts Legacy**" for Steam).
 
 ## Configuration
-- See **HogwartsLegacyFix.ini** to adjust setting for the fix.
+- See **HogwartsLegacyFix.ini** to adjust settings for the fix.
 
 ## Known Issues
 Please report any issues you see.
