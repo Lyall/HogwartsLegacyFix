@@ -86,13 +86,15 @@ void ReadConfig()
         fNewY = (float)iCustomResY;
         fNewAspect = (float)iCustomResX / (float)iCustomResY;
     }
-
-    // Grab desktop resolution
-    RECT desktop;
-    GetWindowRect(GetDesktopWindow(), &desktop);
-    fNewX = (float)desktop.right;
-    fNewY = (float)desktop.bottom;
-    fNewAspect = (float)desktop.right / (float)desktop.bottom;
+    else
+    {
+        // Grab desktop resolution
+        RECT desktop;
+        GetWindowRect(GetDesktopWindow(), &desktop);
+        fNewX = (float)desktop.right;
+        fNewY = (float)desktop.bottom;
+        fNewAspect = (float)desktop.right / (float)desktop.bottom;
+    }
 
     // Log config parse
     LOG_F(INFO, "Config Parse: iInjectionDelay: %dms", iInjectionDelay);
