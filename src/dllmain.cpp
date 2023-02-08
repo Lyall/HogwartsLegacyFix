@@ -63,6 +63,8 @@ void ReadConfig()
     }
 
     iInjectionDelay = config.GetInteger("HogwartsLegacyFix Parameters", "InjectionDelay", 2000);
+    iCustomResX = config.GetInteger("Custom Resolution", "Width", 0);
+    iCustomResY = config.GetInteger("Custom Resolution", "Height", 0);
     bAspectFix = config.GetBoolean("Fix Aspect Ratio", "Enabled", true);
 
     // Get game name and exe path
