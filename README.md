@@ -2,14 +2,14 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)</br>
 [![Github All Releases](https://img.shields.io/github/downloads/Lyall/HogwartsLegacyFix/total.svg)](https://github.com/Lyall/HogwartsLegacyFix/releases)
 
-This is a fix for issue(s) with ultrawide/wider displays in Hogwarts Legacy.
+This is a fix for pillarboxing in cutscenes with ultrawide/wider displays in Hogwarts Legacy.
 
 ## Features
 - Removes pillarboxing in cutscenes.
 
 ## Installation
 - Grab the latest release of HogwartsLegacyFix from [here.](https://github.com/Lyall/HogwartsLegacyFix/releases)
-- Extract the contents of the release zip in to the game's Win64 directory.<br />(e.g. "**steamapps\common\Hogwarts Legacy\Phoenix\Binaries\Win64**" for Steam).
+- Extract the contents of the release zip in to the game directory.<br />(e.g. "**steamapps\common\Hogwarts Legacy**" for Steam).
 
 ## Configuration
 - See **HogwartsLegacyFix.ini** to adjust various aspects of the fix.
