@@ -14,9 +14,9 @@ This is a fix for pillarboxing in cutscenes with ultrawide/wider displays in Hog
 ## Configuration
 - See **HogwartsLegacyFix.ini** to adjust settings for the fix.
 
-## Linux/Steam Deck
+# Linux/Steam Deck
 - Make sure you set the Steam launch options to `WINEDLLOVERRIDES="version.dll=n,b" %command%`.
-![image](https://user-images.githubusercontent.com/695941/218338901-b65546d0-316d-4b46-a6b4-aa7ef9a1ed98.png)
+<img src="https://user-images.githubusercontent.com/695941/218338901-b65546d0-316d-4b46-a6b4-aa7ef9a1ed98.png" width="430.5" height="75.5" />
 
 ## Known Issues
 Please report any issues you see.
