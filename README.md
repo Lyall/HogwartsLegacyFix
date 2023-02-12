@@ -17,6 +17,9 @@ This is a fix for pillarboxing in cutscenes with ultrawide/wider displays in Hog
 ## Known Issues
 Please report any issues you see.
 
+- Q. **Game doesn't launch at all with the fix installed**<br />
+A. Try renaming `version.dll` to one of the options from [this list.](https://github.com/ThirteenAG/Ultimate-ASI-Loader#description) For example, `d3d12.dll`. ([#3](https://github.com/Lyall/HogwartsLegacyFix/issues/3#issuecomment-1427009944))
+
 ## Screenshots
 
 | ![ezgif-5-aa9dbbde3b](https://user-images.githubusercontent.com/695941/217569024-242b3e90-0c66-46de-9460-6e31eb476f5d.gif) |
